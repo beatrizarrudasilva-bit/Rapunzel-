@@ -8,4 +8,9 @@ align-items: center;
 
 .img01{
     width: 30%;
+
+    button{
+        background-color: black;
+        color: yellow;
+        padding: 25px;
 }          
