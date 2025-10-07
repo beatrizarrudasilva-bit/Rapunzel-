@@ -1,8 +1,11 @@
 body{
-background-color: pink;
-color: black;
+background-color: purple(225, 152, 220);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 .img01{
-    width: 90;
+    width: 30%;
 }          
