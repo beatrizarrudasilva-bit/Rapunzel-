@@ -1,6 +1,6 @@
 body{
-background-color: purple(225, 152, 220);
-color: black(21, 7, 7);
+background-color: purple;
+color: black;
 display: flex;
 justify-content: center;
 align-items: center;
